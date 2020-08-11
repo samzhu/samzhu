@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samzhu)](https://github.com/anuraghazra/github-readme-stats)
+![Samzhu's github stats](https://github-readme-stats.vercel.app/api?username=samzhu&show_icons=true)
 
 <!--
 **samzhu/samzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
