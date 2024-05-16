@@ -2,10 +2,6 @@
 
 ![samzhu's github stats](https://github-readme-stats.vercel.app/api?username=samzhu&show_icons=true)
 
-[![samzhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samzhu)](https://github.com/sanzhu/github-readme-stats)
-
-![samzhu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=samzhu)
-
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samzhu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
