@@ -2,7 +2,7 @@
 
 ![samzhu's github stats](https://github-readme-stats.vercel.app/api?username=samzhu&show_icons=true)
 
-[![samzhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samzhu)](https://github.com/anuraghazra/github-readme-stats)
+[![samzhu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samzhu)](https://github.com/sanzhu/github-readme-stats)
 
 ![samzhu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=samzhu)
 
