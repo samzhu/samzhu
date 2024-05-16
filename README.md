@@ -1,7 +1,10 @@
 ### Hi there 👋
-
+<p>
 ![Samzhu's github stats](https://github-readme-stats.vercel.app/api?username=samzhu&show_icons=true)
-
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?samzhu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 <!--
 **samzhu/samzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
