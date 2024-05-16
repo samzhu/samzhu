@@ -5,6 +5,9 @@
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samzhu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<p>
+  ![samzhu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=samzhu)
+</p>
 <!--
 **samzhu/samzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
